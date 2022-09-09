@@ -35,6 +35,7 @@ class LoginController extends Controller
             return route('home');   
         }
     }
+    // asdasd
     /**
      * Create a new controller instance.
      *
